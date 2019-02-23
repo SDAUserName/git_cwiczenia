@@ -1,6 +1,5 @@
 Hello SDA
 
 Nowa funkcjonalnosc
-int = 0; 
+private int = 5; 
 
-ewr
