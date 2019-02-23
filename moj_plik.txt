@@ -2,3 +2,5 @@ Hello SDA
 
 Nowa funkcjonalnosc
 int = 0; 
+
+ewr
