@@ -1,6 +1,4 @@
 Hello SDA
 
 Nowa funkcjonalnosc
-int = 0; 
-
-ewr
+private float = 90f; 
